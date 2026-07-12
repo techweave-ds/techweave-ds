@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light.png" width="30" /> Hi, I'm Deepanshu Sharma
 </h1>
 
-<h3 align="center">Senior BI Consultant @ Motherson Sumi | Porsche · AUDI · Skoda | Python · AI · Qlik · Power BI</h3>
+<h3 align="center">Senior BI Consultant | Porsche · AUDI · Skoda | Python · AI · Qlik · Power BI</h3>
 
 <p align="center">
   <a href="https://techweave-ds.github.io/"><img src="https://img.shields.io/badge/Portfolio-techweave--ds.github.io-00D4FF?style=flat-square" /></a>
